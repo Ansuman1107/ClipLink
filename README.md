@@ -6,7 +6,6 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3-38bdf8)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-backend-6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Build](https://img.shields.io/badge/build-maven-success)
 
 A modern **URL Shortener** with secure authentication, clean routing, and link analytics.
